@@ -1,0 +1,184 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: #644325;
+    background-image: url('../images/cafe-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    padding: 1.5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-grow: 1; /* Make the list occupy remaining space */
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+.logged-account {
+    margin-left: auto;
+    margin-top: -1.2%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.logout-link a{
+    color: red;
+    font-size: 18px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Lucida Console', monospace;
+    font-size: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: saddlebrown;
+}
+
+.content-container {
+    margin-top: -3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #d2b48c, #f5f5dc);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+
+.login-signup {
+    width: 300px;
+}
+
+.login-signup h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.login-signup form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-signup input {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.login-signup button {
+    margin-top: 3%;
+    padding: 10px;
+    background-color: #644325;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-signup button:hover {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.form-change {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.form-change a {
+    color: green;
+    text-decoration: none;
+}
+
+.form-change a:hover {
+    color: greenyellow;
+}
+
+.hidden {
+    display: none;
+}
+
+@media (max-width: 900px) {
+  .content-container, .form-container, .login-signup {
+    width: 100vw !important;
+    min-width: 0;
+    padding: 0 8px;
+    margin: 0;
+    border-radius: 0;
+  }
+  nav ul {
+    flex-direction: column;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60px;
+    z-index: 1000;
+    display: none;
+  }
+  nav ul.show {
+    display: flex;
+  }
+  nav li {
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+  nav button {
+    width: 100%;
+    margin: 8px 0;
+    font-size: 18px;
+  }
+}
+@media (max-width: 600px) {
+  .login-signup {
+    width: 100vw !important;
+    padding: 0 2vw;
+  }
+  .form-container {
+    padding: 10px 2vw;
+  }
+  .login-signup input, .login-signup button {
+    font-size: 16px;
+    padding: 12px 8px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+}

@@ -1,0 +1,199 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: whitesmoke;
+    background-image: url('../images/cafe-bg.jpg');
+    background-size: cover;
+    /* background-repeat: ; */
+}
+
+header {
+    padding: 1.5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-grow: 1;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+.logged-account {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: whitesmoke;
+    font-weight: bold;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.logged-account svg {
+    margin-right: 5px;
+}
+
+.logged-account .username {
+    color: whitesmoke;
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.logout-link {
+    margin-left: 8px;
+}
+
+.logout-link a, .logged-account .logout-link a {
+    color: red !important;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logout-link a:hover, .logged-account .logout-link a:hover {
+    text-decoration: underline;
+    color: #b30000 !important;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Lucida Console', monospace;
+    font-size: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    transition: color 0.3s;
+}
+        
+nav ul li a:hover {
+    color: #644325;
+}
+
+nav button, .content-button button {
+    background-color: burlywood;
+    color: black;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nav-button:hover {
+    background-color: #644325;
+    color: white;
+    transition: color 0.3s;
+}
+
+.content-container {
+    margin-top: -3%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-top: 4%;
+    font-size: 60px;
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Brush Script MT';
+}
+
+h2 {
+    font-family: 'Papyrus', fantasy;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 2%;
+    color: white;
+
+}
+
+.content-buttons {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-button {
+    margin: 10px;
+}
+
+footer {
+    margin-top: 9%;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+.cafe-overview {
+    margin-top: -2.5%;
+}
+
+@media (max-width: 900px) {
+  .content-container {
+    width: 100vw !important;
+    min-width: 0;
+    padding: 0 8px;
+    margin: 0;
+  }
+  nav ul {
+    flex-direction: column;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60px;
+    z-index: 1000;
+    display: none;
+  }
+  nav ul.show {
+    display: flex;
+  }
+  nav li {
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+  nav button, .content-button button {
+    width: 100%;
+    margin: 8px 0;
+    font-size: 18px;
+  }
+  .content-buttons {
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+  .content-container img {
+    width: 60vw !important;
+    height: auto !important;
+  }
+  .content-buttons {
+    flex-direction: column;
+    gap: 6px;
+  }
+}
