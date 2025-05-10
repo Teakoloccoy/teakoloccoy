@@ -1,0 +1,150 @@
+* {
+    margin-left: 5px;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    color: #644325;
+    background-image: url('../images/cafe-bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    padding: 1.5%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-grow: 1;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+.logged-account {
+    margin-left: auto;
+    margin-top: -0.5%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.logout-link a{
+    color: red;
+    font-size: 18px;
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Lucida Console', monospace;
+    font-size: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: whitesmoke;
+    transition: color 0.3s;
+}
+        
+nav ul li a:hover {
+    color: #644325;
+}
+
+h1{
+    font-family: 'Monaco', fantasy;
+    font-size: 50px;
+    margin-top: -1%;
+    color: whitesmoke;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Monaco', fantasy;
+    font-weight: normal;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 1px;
+    color: whitesmoke;
+}
+
+.paragraph {
+    color: lightgrey;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.contactdetails {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.contactdetails a img {
+  margin-top: -10%;
+  width: 30px;
+  height: 30px;
+  transition: transform 0.2s;
+}
+
+.contactdetails a img:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 900px) {
+  nav ul {
+    flex-direction: column;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 60px;
+    z-index: 1000;
+    display: none;
+  }
+  nav ul.show {
+    display: flex;
+  }
+  nav li {
+    margin: 0;
+    border-bottom: 1px solid #eee;
+  }
+  nav button {
+    width: 100%;
+    margin: 8px 0;
+    font-size: 18px;
+  }
+  .contactdetails {
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 20px;
+    padding: 4px;
+  }
+  .paragraph {
+    font-size: 15px;
+  }
+  .contactdetails {
+    font-size: 15px;
+  }
+}

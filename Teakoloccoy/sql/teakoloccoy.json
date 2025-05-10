@@ -1,0 +1,164 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"teakoloccoy"},
+{"type":"table","name":"messages","database":"teakoloccoy","data":
+[
+{"message_id":"1","sender_id":"1","receiver_id":"1","message":"Hi!","sent_at":"2025-05-09 17:36:08","is_read":"0","notification":"0"},
+{"message_id":"2","sender_id":"1","receiver_id":"1","message":"Hi!","sent_at":"2025-05-09 17:42:57","is_read":"0","notification":"0"},
+{"message_id":"3","sender_id":"1","receiver_id":"1","message":"hey","sent_at":"2025-05-09 17:43:47","is_read":"0","notification":"0"},
+{"message_id":"4","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:26","is_read":"0","notification":"0"},
+{"message_id":"5","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:32","is_read":"0","notification":"0"},
+{"message_id":"6","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:38","is_read":"0","notification":"0"},
+{"message_id":"7","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:43","is_read":"0","notification":"0"},
+{"message_id":"8","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:48","is_read":"0","notification":"0"},
+{"message_id":"9","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:53","is_read":"0","notification":"0"},
+{"message_id":"10","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:32:58","is_read":"0","notification":"0"},
+{"message_id":"11","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:04","is_read":"0","notification":"0"},
+{"message_id":"12","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:10","is_read":"0","notification":"0"},
+{"message_id":"13","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:16","is_read":"0","notification":"0"},
+{"message_id":"14","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:22","is_read":"0","notification":"0"},
+{"message_id":"15","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:28","is_read":"0","notification":"0"},
+{"message_id":"16","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:34","is_read":"0","notification":"0"},
+{"message_id":"17","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:40","is_read":"0","notification":"0"},
+{"message_id":"18","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:46","is_read":"0","notification":"0"},
+{"message_id":"19","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:52","is_read":"0","notification":"0"},
+{"message_id":"20","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:33:58","is_read":"0","notification":"0"},
+{"message_id":"21","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:04","is_read":"0","notification":"0"},
+{"message_id":"22","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:10","is_read":"0","notification":"0"},
+{"message_id":"23","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:16","is_read":"0","notification":"0"},
+{"message_id":"24","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:22","is_read":"0","notification":"0"},
+{"message_id":"25","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:28","is_read":"0","notification":"0"},
+{"message_id":"26","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:34","is_read":"0","notification":"0"},
+{"message_id":"27","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:40","is_read":"0","notification":"0"},
+{"message_id":"28","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:46","is_read":"0","notification":"0"},
+{"message_id":"29","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:52","is_read":"0","notification":"0"},
+{"message_id":"30","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:34:58","is_read":"0","notification":"0"},
+{"message_id":"31","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:04","is_read":"0","notification":"0"},
+{"message_id":"32","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:10","is_read":"0","notification":"0"},
+{"message_id":"33","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:16","is_read":"0","notification":"0"},
+{"message_id":"34","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:22","is_read":"0","notification":"0"},
+{"message_id":"35","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:28","is_read":"0","notification":"0"},
+{"message_id":"36","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:34","is_read":"0","notification":"0"},
+{"message_id":"37","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:40","is_read":"0","notification":"0"},
+{"message_id":"38","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:46","is_read":"0","notification":"0"},
+{"message_id":"39","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:52","is_read":"0","notification":"0"},
+{"message_id":"40","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:35:58","is_read":"0","notification":"0"},
+{"message_id":"41","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:04","is_read":"0","notification":"0"},
+{"message_id":"42","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:10","is_read":"0","notification":"0"},
+{"message_id":"43","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:16","is_read":"0","notification":"0"},
+{"message_id":"44","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:22","is_read":"0","notification":"0"},
+{"message_id":"45","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:28","is_read":"0","notification":"0"},
+{"message_id":"46","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:34","is_read":"0","notification":"0"},
+{"message_id":"47","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:40","is_read":"0","notification":"0"},
+{"message_id":"48","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:46","is_read":"0","notification":"0"},
+{"message_id":"49","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:52","is_read":"0","notification":"0"},
+{"message_id":"50","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:36:58","is_read":"0","notification":"0"},
+{"message_id":"51","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:04","is_read":"0","notification":"0"},
+{"message_id":"52","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:10","is_read":"0","notification":"0"},
+{"message_id":"53","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:16","is_read":"0","notification":"0"},
+{"message_id":"54","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:22","is_read":"0","notification":"0"},
+{"message_id":"55","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:28","is_read":"0","notification":"0"},
+{"message_id":"56","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:34","is_read":"0","notification":"0"},
+{"message_id":"57","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:40","is_read":"0","notification":"0"},
+{"message_id":"58","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:46","is_read":"0","notification":"0"},
+{"message_id":"59","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:52","is_read":"0","notification":"0"},
+{"message_id":"60","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:37:58","is_read":"0","notification":"0"},
+{"message_id":"61","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:38:03","is_read":"0","notification":"0"},
+{"message_id":"62","sender_id":"1","receiver_id":"1","message":"asdaadaaa","sent_at":"2025-05-09 21:38:10","is_read":"0","notification":"0"},
+{"message_id":"63","sender_id":"1","receiver_id":"1","message":"sas","sent_at":"2025-05-09 22:43:39","is_read":"0","notification":"0"},
+{"message_id":"64","sender_id":"1","receiver_id":"1","message":"gege","sent_at":"2025-05-09 22:52:29","is_read":"0","notification":"0"},
+{"message_id":"65","sender_id":"7","receiver_id":"1","message":"asdsad","sent_at":"2025-05-09 22:56:55","is_read":"0","notification":"0"},
+{"message_id":"66","sender_id":"1","receiver_id":"6","message":"asdasdasd","sent_at":"2025-05-09 22:57:02","is_read":"0","notification":"1"},
+{"message_id":"67","sender_id":"1","receiver_id":"7","message":"hello","sent_at":"2025-05-09 23:05:51","is_read":"0","notification":"0"},
+{"message_id":"68","sender_id":"1","receiver_id":"7","message":"1231","sent_at":"2025-05-10 00:45:44","is_read":"0","notification":"0"}
+]
+}
+,{"type":"table","name":"order","database":"teakoloccoy","data":
+[
+{"order_id":"3","order_date":"2025-05-08 13:21:18","total_amount":"188.00","order_status":"completed","delivery_address":"Purok 3, Santo Tomas, Palauig, Zambales","user_id":"1"},
+{"order_id":"4","order_date":"2025-05-08 13:36:56","total_amount":"109.00","order_status":"cancelled","delivery_address":"Purok 3, Santo Tomas, Palauig, Zambales","user_id":"1"},
+{"order_id":"5","order_date":"2025-05-08 13:54:09","total_amount":"109.00","order_status":"completed","delivery_address":"Purok 3, Santo Tomas, Palauig, Zambales","user_id":"1"},
+{"order_id":"6","order_date":"2025-05-08 14:02:55","total_amount":"109.00","order_status":"completed","delivery_address":"Purok 3, Santo Tomas, Palauig, Zambales","user_id":"1"},
+{"order_id":"7","order_date":"2025-05-08 14:03:17","total_amount":"109.00","order_status":"cancelled","delivery_address":"Zone 5 Iba, Zambales","user_id":"1"},
+{"order_id":"8","order_date":"2025-05-09 11:01:19","total_amount":"109.00","order_status":"cancelled","delivery_address":"Zone 5 Iba, Zambales","user_id":"1"},
+{"order_id":"9","order_date":"2025-05-10 09:07:49","total_amount":"168.00","order_status":"cancelled","delivery_address":"Purok 3, Santo Tomas, Palauig, Zambales","user_id":"1"}
+]
+}
+,{"type":"table","name":"order_address","database":"teakoloccoy","data":
+[
+{"order_address_id":"8","order_name":"Jomer Mirador","address":"Purok 3, Santo Tomas, Palauig, Zambales","phone_number":"09195466920","order_id":"3"},
+{"order_address_id":"9","order_name":"Jomer Mirador","address":"Purok 3, Santo Tomas, Palauig, Zambales","phone_number":"09195466920","order_id":"4"},
+{"order_address_id":"10","order_name":"NICOLE SUMAYANG","address":"Purok 3, Santo Tomas, Palauig, Zambales","phone_number":"09195466920","order_id":"5"},
+{"order_address_id":"11","order_name":"NICOLE SUMAYANG","address":"Purok 3, Santo Tomas, Palauig, Zambales","phone_number":"09195466920","order_id":"6"},
+{"order_address_id":"12","order_name":"Jomer Mirador Mirador","address":"Zone 5 Iba, Zambales","phone_number":"09195466920","order_id":"7"},
+{"order_address_id":"13","order_name":"Jomer Mirador Mirador","address":"Zone 5 Iba, Zambales","phone_number":"09195466920","order_id":"8"},
+{"order_address_id":"14","order_name":"Jomer Mirador Mirador","address":"Purok 3, Santo Tomas, Palauig, Zambales","phone_number":"09195466920","order_id":"9"}
+]
+}
+,{"type":"table","name":"order_item","database":"teakoloccoy","data":
+[
+{"order_item_id":"1","quantity":"1","item_price":"109.00","product_id":"1","order_id":"3"},
+{"order_item_id":"2","quantity":"1","item_price":"79.00","product_id":"2","order_id":"3"},
+{"order_item_id":"3","quantity":"1","item_price":"109.00","product_id":"1","order_id":"4"},
+{"order_item_id":"4","quantity":"1","item_price":"109.00","product_id":"1","order_id":"5"},
+{"order_item_id":"5","quantity":"1","item_price":"109.00","product_id":"1","order_id":"6"},
+{"order_item_id":"6","quantity":"1","item_price":"109.00","product_id":"1","order_id":"7"},
+{"order_item_id":"7","quantity":"1","item_price":"109.00","product_id":"1","order_id":"8"},
+{"order_item_id":"8","quantity":"1","item_price":"69.00","product_id":"13","order_id":"9"},
+{"order_item_id":"9","quantity":"1","item_price":"99.00","product_id":"6","order_id":"9"}
+]
+}
+,{"type":"table","name":"product","database":"teakoloccoy","data":
+[
+{"product_id":"1","product_name":"Rice Meal","base_price":"109.00","category":"foods","image_path":"..\/images\/food.jpg"},
+{"product_id":"2","product_name":"Korean Sandwich","base_price":"79.00","category":"foods","image_path":"..\/images\/KS.jpg"},
+{"product_id":"3","product_name":"Sharing Fries","base_price":"109.00","category":"foods","image_path":"..\/images\/sharingfries.jpg"},
+{"product_id":"4","product_name":"Chocolate Croffle","base_price":"99.00","category":"foods","image_path":"..\/images\/chococroffle.jpg"},
+{"product_id":"5","product_name":"Chicken Wings","base_price":"109.00","category":"foods","image_path":"..\/images\/chickenwings.jpg"},
+{"product_id":"6","product_name":"Strawberry Croffle","base_price":"99.00","category":"foods","image_path":"..\/images\/redcroffle.jpg"},
+{"product_id":"7","product_name":"Plain Croffle","base_price":"99.00","category":"foods","image_path":"..\/images\/croffle.jpg"},
+{"product_id":"8","product_name":"Takoyaki 8 pcs","base_price":"89.00","category":"foods","image_path":"..\/images\/dessert.jpg"},
+{"product_id":"9","product_name":"Family Takoyaki","base_price":"209.00","category":"foods","image_path":"..\/images\/familytakoyaki - Copy.jpg"},
+{"product_id":"10","product_name":"Milktea","base_price":"69.00","category":"drinks","image_path":"..\/images\/milktea.jpg"},
+{"product_id":"11","product_name":"Taro","base_price":"69.00","category":"drinks","image_path":"..\/images\/taro.jpg"},
+{"product_id":"12","product_name":"Okinawa","base_price":"69.00","category":"drinks","image_path":"..\/images\/okinawa.jpg"},
+{"product_id":"13","product_name":"Caramel","base_price":"69.00","category":"drinks","image_path":"..\/images\/caramel.jpg"},
+{"product_id":"14","product_name":"Hokkaido","base_price":"69.00","category":"drinks","image_path":"..\/images\/hokkaido.jpg"},
+{"product_id":"15","product_name":"Iced Tea","base_price":"49.00","category":"drinks","image_path":"..\/images\/icetea.jpg"},
+{"product_id":"16","product_name":"Chocolate","base_price":"69.00","category":"drinks","image_path":"..\/images\/choconabatok.png"},
+{"product_id":"17","product_name":"Bubble Tea","base_price":"69.00","category":"drinks","image_path":"http:\/\/localhost\/Teakoloccoy\/images\/bubbletea.jpg"},
+{"product_id":"18","product_name":"Matcha","base_price":"69.00","category":"drinks","image_path":"..\/images\/matcha.png"},
+{"product_id":"19","product_name":"Thai","base_price":"69.00","category":"drinks","image_path":"..\/images\/thai1.jpg"},
+{"product_id":"20","product_name":"Red Velvet","base_price":"69.00","category":"drinks","image_path":"..\/images\/red-velvet.jpeg"},
+{"product_id":"21","product_name":"Iced Americano","base_price":"69.00","category":"drinks","image_path":"..\/images\/iceda.jpg"},
+{"product_id":"22","product_name":"Special Drinks","base_price":"99.00","category":"promo","image_path":"..\/images\/promo2.jpg"},
+{"product_id":"23","product_name":"Takoyaki Bilao","base_price":"209.00","category":"promo","image_path":"..\/images\/takoyakibilao.jpg"},
+{"product_id":"24","product_name":"Special Promo Combo","base_price":"239.00","category":"promo","image_path":"..\/images\/promo3.jpg"}
+]
+}
+,{"type":"table","name":"product_variant","database":"teakoloccoy","data":
+[
+
+]
+}
+,{"type":"table","name":"sales","database":"teakoloccoy","data":
+[
+{"sales_id":"731","order_id":"6","status":"completed","delivered_date":"2025-05-08 14:03:07","cancelled_date":"2025-05-08 20:03:07"},
+{"sales_id":"732","order_id":"7","status":"cancelled","delivered_date":"2025-05-08 20:03:46","cancelled_date":"2025-05-08 14:03:46"},
+{"sales_id":"733","order_id":"8","status":"cancelled","delivered_date":"2025-05-10 15:02:46","cancelled_date":"2025-05-10 15:02:46"},
+{"sales_id":"734","order_id":"9","status":"cancelled","delivered_date":"2025-05-10 15:08:19","cancelled_date":"2025-05-10 15:08:19"}
+]
+}
+,{"type":"table","name":"users","database":"teakoloccoy","data":
+[
+{"user_id":"1","First_Name":"Jomer","Last_Name":"Mirador","Username":"Jumir","Password":"$2y$10$2onhToBkYfA2MxzMOqloquyzZAv.MP3He5zvLhqgh21rmP9RjySAW","Address":"Brgy. Libaba, Palauig, Zambales","Phone_Num":"9195466920","isAdmin":"0","date_created":"2025-04-09 22:46:21"},
+{"user_id":"2","First_Name":"Kurt Allen","Last_Name":"Abdon","Username":"kurtabdon","Password":"$2y$10$5VcXA5BV4aZ3XGKkpdm2CuUwt2q3hsBIaBXXGMZqEO6ni0nAcU6rK","Address":"Brgy. Santo Tomas, Palauig, Zambales","Phone_Num":"9184233346","isAdmin":"0","date_created":"2025-04-09 22:46:21"},
+{"user_id":"3","First_Name":"Kurt Allen ","Last_Name":"Abdon","Username":"kurtabdon20","Password":"$2y$10$z8JxG2i.OBhj7.kB94mTxOVnDi4QlyGzPWn5\/r8TTI8GcQceFCLUu","Address":"Brgy. Santo Tomas, Palauig, Zambales","Phone_Num":"9184433346","isAdmin":"0","date_created":"2025-04-09 22:46:21"},
+{"user_id":"4","First_Name":"Kaye","Last_Name":"Ocampo","Username":"kayeocampo","Password":"$2y$10$zcIbTdohdVdMEu2O1R7L3.jQWXEyWBY0me4V2VNj.z\/QYwBGFouYe","Address":"Brgy. Santo Tomas, Palauig, Zambales","Phone_Num":"9192893483","isAdmin":"0","date_created":"2025-04-09 22:46:21"},
+{"user_id":"5","First_Name":"Kiara Le","Last_Name":"Abdon","Username":"aleyabdon","Password":"$2y$10$DT7\/JNOEKJQp7EeT87WX1uA35sFHvzWrW5CYE.2NdUf9EehozSN92","Address":"Brgy. Santo Tomas, Palauig, Zambales","Phone_Num":"9173893064","isAdmin":"0","date_created":"2025-04-09 22:46:21"},
+{"user_id":"6","First_Name":"Allen","Last_Name":"Abdon","Username":"allenabdon","Password":"$2y$10$gCuqFqMq\/sHjxiD6XnGJre1e7wWgyPWoDtjrCRqRhUtMipix4eI56","Address":"Brgy. Santo Niño, Palauig, Zambales","Phone_Num":"9453235812","isAdmin":"1","date_created":"2025-04-09 22:46:21"},
+{"user_id":"7","First_Name":"Admin","Last_Name":"Account","Username":"Admin.Teakoloccoy12345","Password":"$2y$10$4ICXoVL\/X7I\/jwBp3yg5uec7Lf0cGULJ6WEjF5uXVIos9M2rWwOGm","Address":"Brgy. West Poblacion, Palauig, Zambales","Phone_Num":"9195466920","isAdmin":"1","date_created":"2025-04-09 16:54:44"},
+{"user_id":"8","First_Name":"Jomer Mirador","Last_Name":"Mirador","Username":"rara","Password":"$2y$10$3yk44o4buwQVYVe0DPTuJ.B8DhatTmTFjFJJ5FvDnN5DPtcYI3S4C","Address":"Brgy. San Vicente, Palauig, Zambales","Phone_Num":"9195466920","isAdmin":"0","date_created":"2025-05-08 12:14:43"}
+]
+}
+]
